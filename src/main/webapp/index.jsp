@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Wish you a Happy New Year 2023!!!</h2>
+<h2>This is release branch code</h2>
 </body>
 </html>
