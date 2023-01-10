@@ -19,7 +19,7 @@
         <repository>
          <id>mynexus-id</id>
          <name>mysnapshot</name>
-         <url>http://54.175.17.19:8081/repository/mysnapshot/</url>
+         <url>http://54.167.135.3:8081/repository/mysnapshot/</url>
        </repository>	   
 </distributionManagement>  
 </project>
