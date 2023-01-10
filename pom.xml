@@ -19,7 +19,7 @@
         <repository>
          <id>mynexus-id</id>
          <name>myrelease</name>
-         <url>http://3.82.229.237:8081/repository/myrelease/</url>
+         <url>http://54.167.135.3:8081/repository/myrelease/</url>
        </repository>	   
 </distributionManagement>  
 </project>
