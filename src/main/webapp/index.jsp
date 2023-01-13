@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>pipeline-inline-test</h2>
+<h2>Pipeline-SCM Test</h2>
 </body>
 </html>
