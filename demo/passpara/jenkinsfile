@@ -1,5 +1,3 @@
-//passing parameter 'branchname'  
-
 pipeline {
   agent { label 'maven' }
   parameters {
