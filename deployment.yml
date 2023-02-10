@@ -1,0 +1,5 @@
+---
+ - hosts: appserver
+   tasks:
+   - name: Copying build package from Jenkins to Tomcat for App Deployment
+     copy: src=target/demoapp-2.0 dest=/usr/local/tomcat9/webapps/demoapp
